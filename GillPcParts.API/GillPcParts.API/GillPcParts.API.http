@@ -1,0 +1,6 @@
+@GillPcParts.API_HostAddress = http://localhost:5103
+
+GET {{GillPcParts.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
