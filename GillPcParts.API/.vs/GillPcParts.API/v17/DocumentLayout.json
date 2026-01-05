@@ -1,12 +1,182 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\gillpcparts.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\gillpcparts.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|c:\\users\\ranbi\\onedrive\\documents\\github\\gill-s-pc-parts\\gillpcparts.api\\gillpcparts.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FD3065-AA4B-4F1D-8985-B477EEF38142}|GillPcParts.API\\GillPcParts.API.csproj|solutionrelative:gillpcparts.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Program.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Program.cs",
+              "RelativeToolTip": "GillPcParts.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:28:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "GillPcParts.API\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:40:35.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GillPcParts.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:40:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Models\\Order.cs",
+              "RelativeToolTip": "GillPcParts.API\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:39:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Models\\Product.cs",
+              "RelativeToolTip": "GillPcParts.API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:39:12.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Models\\User.cs",
+              "RelativeToolTip": "GillPcParts.API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:39:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GillPcParts.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\GillPcParts.API.csproj",
+              "RelativeDocumentMoniker": "GillPcParts.API\\GillPcParts.API.csproj",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\GillPcParts.API.csproj",
+              "RelativeToolTip": "GillPcParts.API\\GillPcParts.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T23:38:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "GillPcParts.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:31:22.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GillPcParts.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:31:30.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GillPcParts.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ranbi\\OneDrive\\Documents\\GitHub\\Gill-s-Pc-Parts\\GillPcParts.API\\GillPcParts.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GillPcParts.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:30:47.575Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

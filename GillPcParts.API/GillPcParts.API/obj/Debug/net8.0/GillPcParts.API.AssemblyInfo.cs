@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GillPcParts.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3f806efe3b21241127c72e09baa0a61b2b99ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("GillPcParts.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GillPcParts.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

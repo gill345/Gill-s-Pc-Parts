@@ -1,6 +1,6 @@
 ﻿namespace GillPcParts.API.Controllers
 {
-    public class Class
+    public class AuthController
     {
     }
 }
