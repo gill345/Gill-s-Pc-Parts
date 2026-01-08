@@ -5,7 +5,7 @@
 
 ## 📜Overview
 Gill's Pc Parts is a full-stack web application that allows users to buy and sell PC components, featuring secure authentication, product listings, and a responsive user interface.
-Currently a WIP.
+Currently a WIP and could change.
 
 ## 🚀 Tech Stack
 ***Frontend:***
