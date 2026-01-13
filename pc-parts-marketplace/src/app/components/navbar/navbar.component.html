@@ -17,7 +17,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link" routerLink="/">Browse</a>
+          <a class="nav-link" routerLink="/products">Browse</a>
         </li>
 
         <li class="nav-item">
@@ -26,18 +26,27 @@
       </ul>
 
       <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/cart">Cart</a>
-        </li>
+  <li class="nav-item">
+    <a class="nav-link" routerLink="/cart">Cart</a>
+  </li>
 
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/login">Login</a>
-        </li>
+  <li class="nav-item" *ngIf="!authService.isLoggedIn()">
+    <a class="nav-link" routerLink="/login">Login</a>
+  </li>
 
-        <li class="nav-item">
-          <a class="nav-link" routerLink="/register">Register</a>
-        </li>
-      </ul>
+  <li class="nav-item" *ngIf="!authService.isLoggedIn()">
+    <a class="nav-link" routerLink="/register">Register</a>
+  </li>
+
+  <li class="nav-item" *ngIf="authService.isLoggedIn()">
+    <a class="nav-link" routerLink="/account/listings">Account</a>
+  </li>
+
+  <li class="nav-item" *ngIf="authService.isLoggedIn()">
+    <a class="nav-link" (click)="logout()">Logout</a>
+  </li>
+</ul>
+
     </div>
 
   </div>

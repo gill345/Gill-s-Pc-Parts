@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GillPcParts.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a288aa07ce552e1ef9ba0740ea760259a6a255d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4feda03e7717ba966ff971a44a16109706aadb68")]
 [assembly: System.Reflection.AssemblyProductAttribute("GillPcParts.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GillPcParts.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
