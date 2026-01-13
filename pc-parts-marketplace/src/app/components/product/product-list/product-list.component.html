@@ -1,0 +1,9 @@
+<div class="container mt-4">
+  <h2 class="mb-3">Browse PC Parts</h2>
+
+  <div class="row">
+    <div class="col-md-4 mb-3" *ngFor="let product of products">
+      <app-product-card [product]="product"></app-product-card>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,16 @@
+<div *ngIf="listings.length === 0" class="alert alert-info">
+  You have no listings yet.
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-3">
+  <div class="col" *ngFor="let product of listings">
+    <div class="card h-100">
+      <img [src]="product.imageUrl" class="card-img-top" alt="{{ product.name }}">
+      <div class="card-body">
+        <h5 class="card-title">{{ product.name }}</h5>
+        <p class="card-text">{{ product.category }} • {{ product.condition }}</p>
+        <p class="card-text fw-bold">$ {{ product.price }}</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+<div class="card h-100 shadow-sm">
+  <div class="card-body" [routerLink]="['/products', product.id]">
+    <h5>{{ product.name }}</h5>
+    <p class="text-muted">{{ product.category }} • {{ product.condition }}</p>
+    <p class="fw-bold">$ {{ product.price }}</p>
+    <img [src]="product.imageUrl" alt="{{ product.name }}" class="img-fluid" />
+  </div>
+
+  <div class="card-footer bg-white border-0">
+    <button
+      class="btn btn-sm btn-primary w-100"
+      (click)="addToCart(); $event.stopPropagation()"
+    >
+      Add to Cart
+    </button>
+  </div>
+</div>
